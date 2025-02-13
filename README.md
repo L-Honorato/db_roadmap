@@ -17,9 +17,9 @@ A seleção dos dados que serão armazenados devem responder às seguintes pergu
 As respostas a essas perguntas são essenciais para definir a estrutura do projeto de um banco de dados.
 
 ## Elaboração do modelo conceitual
-* O modelo conceitual deve abordar todos os dados do banco.
-* MER - Modelo de entidades e relacionamentos:  
-  *Entidades* são abstrações de seres do mundo real;  
-  *Atributos* são características das entidades;  
-  *Relacionamentos* entre os dados.  
+O modelo conceitual deve abordar todos os dados do banco.  
+MER - Modelo de entidades e relacionamentos:  
+  * Entidades* são abstrações de seres do mundo real;  
+  * Atributos* são características das entidades;  
+  * Relacionamentos* entre os dados.  
 
