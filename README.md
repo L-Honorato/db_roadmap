@@ -2,8 +2,8 @@
 # Trilha para a impletação de bases de dados
 Os dois pressupostos que apontam para a necessidade da criação de um banco de dados são:
   
-* grande volume de dados
-* necessidade de persistência dos dados
+* grande volume de dados;  
+* necessidade de persistência dos dados;  
   
 A persistência aponta para a comunicação de uma informação no futuro. 
   
@@ -18,8 +18,8 @@ As respostas a essas perguntas são essenciais para definir a estrutura do proje
 
 ## Elaboração do modelo conceitual
 O modelo conceitual deve abordar todos os dados do banco.  
-MER - Modelo de entidades e relacionamentos:  
-  * Entidades* são abstrações de seres do mundo real;  
+*MER* - Modelo de entidades e relacionamentos:  
+  * *Entidades* são abstrações de seres do mundo real;  
   * Atributos* são características das entidades;  
   * Relacionamentos* entre os dados.  
 
