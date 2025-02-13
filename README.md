@@ -19,8 +19,8 @@ As respostas a essas perguntas são essenciais para definir a estrutura do proje
 ## Elaboração do modelo conceitual
 O modelo conceitual deve abordar todos os dados do banco.  
   
-*MER* - Modelo de entidades e relacionamentos:  
-  * *Entidades* são abstrações de seres do mundo real;  
-  * Atributos* são características das entidades;  
-  * Relacionamentos* entre os dados.  
+**MER** - Modelo de entidades e relacionamentos:  
+  * **Entidades** são abstrações de seres do mundo real;  
+  * **Atributos** são características das entidades;  
+  * **Relacionamentos** entre os dados.  
 
