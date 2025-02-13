@@ -20,7 +20,18 @@ As respostas a essas perguntas são essenciais para definir a estrutura do proje
 O modelo conceitual deve abordar todos os dados do banco.  
   
 **MER** - Modelo de entidades e relacionamentos:  
-  * **Entidades** são abstrações de seres do mundo real;  
-  * **Atributos** são características das entidades;  
-  * **Relacionamentos** entre os dados.  
+  * **Entidades** são abstrações de seres do mundo real, representadas como tabelas;  
+  * **Atributos** são características das entidades, representados como colunas;  
+  * **Relacionamentos** entre entidades, pode ser representado como uma tabela com atributos próprios ou por meio de uma chave estrangeira em uma das tabelas (entidades) relacionadas.  
+
+Então, selecionar as entidades e relacionamentos, especificando seus atributos.  
+Atributos compostos (por dois ou mais atributos) são normalizados e trazidos como atributos da tabela. Cada atributo composto se torna uma coluna da tabela.  
+
+**Chaves** - atributos identificadores (únicos) de entidades tornam-se chaves primárias da tabela respectiva.
+
+**Representação de relacionamentos**  
+
+O relacionamento pode ser representado por meio de uma tabela ou de uma chave estrangeira.  
+Tabelas: relacionamentos NxN  
+Chave estrangeira: relacionamento 1xN
 
