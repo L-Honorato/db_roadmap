@@ -33,5 +33,13 @@ Atributos compostos (por dois ou mais atributos) são normalizados e trazidos co
 
 O relacionamento pode ser representado por meio de uma tabela ou de uma chave estrangeira.  
 Tabelas: relacionamentos NxN  
-Chave estrangeira: relacionamento 1xN
+Chave estrangeira: relacionamento 1xN  
+A tabela que representa um relacionamento é identificada pelas chaves primárias das tabelas relacionadas.  
+
+## Criação do BD
+
+Criam-se as tabelas e seus atributos com a fração DDL da linguagem SQL.  
+Os atributos podem possuir **restrições de integridade**, que podem ser **estruturais** ou de **domínio**.  
+
+As estruturais 
 
