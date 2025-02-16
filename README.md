@@ -49,7 +49,16 @@ As restrições estruturais levam em conta o modelo lógico escolhido. No modelo
 
 As restrições relativas a regras de negócio impõe a validade ou não de determinados valores dos dados e são independentes do modelo lógico escolhido. Podem coincidir com as restrições de domínio.  
 
+**DDL - Data Definition Language**  
+Comandos SQL com finalidade estrutural. Definem a estrutura da base de dados.  
+  
+* CREATE TABLE - cria tabela
+* ALTER TABLE - altera a estrutura da tabela
+* DROP TABLE - exclui a tabela  
+
 **Comandos de restrição de integridade**  
+Comandos que dizem respeito a estrutura dos dados  
+  
 * PRIMARY KEY - chave primária
 * FOREING KEY - chave estrangeira
 * UNIQUE - restrição de unicidade
@@ -64,3 +73,10 @@ As restrições relativas a regras de negócio impõe a validade ou não de dete
 * DATA TYPE binários - BLOB, BYTEA
 * DATA TYPE especiais - UUID, SERIAL, AUTO_INCREMENT
 
+**DML - Data Manipulation Language**  
+Comando utilizados para manuseio dos dados instanciados. Permitem a inserção, exclusão ou alteração dos dados. 
+
+* INSERT - insere dados nas tabelas
+* DELETE - exclui tuplas
+* UPDATE - altera tuplas
+* 
