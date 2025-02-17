@@ -65,7 +65,7 @@ Comandos que dizem respeito a estrutura dos dados
 * NOT NULL - proibição de valores nulos
 * CHECK - restrição de validação
 * DEFAULT - definição de valor padrão
-* ON DELETE/ON UPDATE - Controla o comportamento ao excluir ou atualizar registros referenciados por uma FOREING KEY
+* ON DELETE/ON UPDATE - Controla o comportamento ao excluir ou atualizar registros referenciados por uma FOREING KEY. ON DELETE CASCADE, SET NULL ou RESTRICT.
 * DATA TYPE numéricos - NUMERIC (ou DECIMAL), INT (ou INTEGER), SMALLINT, BIGINT, FLOAT, REAL, DOUBLE PRECISION
 * DATA TYPE texto - CHAR, VARCHAR, TEXT
 * DATA TYPE data e hora - DATE, TIME, TIMESTAMP, DATETIME
